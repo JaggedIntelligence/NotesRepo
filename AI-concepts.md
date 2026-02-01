@@ -54,7 +54,7 @@ https://artificialanalysis.ai/leaderboards/models?is_open_weights=open_source
 https://openrouter.ai/rankings
     
 
-### 3. AI IDEs ( How developers use LLM while Coding Software )
+### 3. AI IDEs ( How developers use LLMs while Coding Software applications)
 - Cursor
 - ClaudeCode  (Anthropic) -- Claude Code : $200/month almost unlimited ; most popular with Developers
 - CodeX  ( OpenAI)
