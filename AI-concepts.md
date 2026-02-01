@@ -73,7 +73,8 @@ https://openrouter.ai/rankings
 
 ### 5.Agenitic frameworks: 
 
-- what frameworks people use to Develop "AI based applications" ( like "Ruby on Rails" vs. Java Spring Vs. Node.js )
+>what frameworks people use to Develop "AI based applications" ( like "Ruby on Rails" vs. Java Spring Vs. Node.js )
+  
 Agno
 
 LangGraph
