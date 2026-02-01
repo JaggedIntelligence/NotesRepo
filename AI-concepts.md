@@ -29,8 +29,8 @@ https://www.youtube.com/playlist?list=PLOvl7cLDEa_TYhgdZN-Kc9kK8bGoTNmHR
   
      - 
 **LLM BenckMarks:**
-
-  practical real-world: https://livebench.ai/#/
+- standard [benchmarks](https://artificialanalysis.ai/leaderboards/models?is_open_weights=open_source) 
+- others: https://livebench.ai/#/
 
 
 usage :
