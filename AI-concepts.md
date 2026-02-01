@@ -1,6 +1,8 @@
 
 
 ### 0. ML DL AI
+-- use this Notes with these companion "videos playlist" for better understanding of the AI-Concepts
+https://www.youtube.com/playlist?list=PLOvl7cLDEa_TYhgdZN-Kc9kK8bGoTNmHR
 
 ### 1. LLM  Models
 - ChatGPT  (OpenAI)  <-- the Big 3
