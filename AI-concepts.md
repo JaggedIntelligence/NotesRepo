@@ -68,9 +68,9 @@ https://openrouter.ai/rankings
 - examples : talk about "Stock MCP server" ...
 
 
-### 5.Agenitic frameworks:
+### 5.Agenitic frameworks: 
 
-
+- what frameworks people use to Develop "AI based applications" ( like "Ruby on Rails" vs. Java Spring Vs. Node.js )
 Agno
 
 LangGraph
