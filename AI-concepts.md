@@ -26,7 +26,9 @@
   
      - 
 **LLM BenckMarks:**
+
   practical real-world: https://livebench.ai/#/
+
 
 usage :
   - web based
@@ -40,6 +42,7 @@ usage :
 ### LLM Model API Providers
 
 https://artificialanalysis.ai/leaderboards/models?is_open_weights=open_source
+
 **trade-off parameters of LLMs in real world usage:**
 - context window
 - speed
