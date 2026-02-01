@@ -28,8 +28,8 @@ https://www.youtube.com/playlist?list=PLOvl7cLDEa_TYhgdZN-Kc9kK8bGoTNmHR
      - another way to look: https://huggingface.co/models
   
      - 
-**LLM BenckMarks:**
-- standard [benchmarks](https://artificialanalysis.ai/leaderboards/models?is_open_weights=open_source](https://artificialanalysis.ai/evaluations) 
+**LLM BenckMarks:** Evaluaitons of LLMs on various dimentions
+- standard [benchmarks](https://artificialanalysis.ai/evaluations) 
 - others: https://livebench.ai/#/
 
 
