@@ -1,6 +1,6 @@
 
 
-### ML DL AI
+### 0. ML DL AI
 
 ### 1. LLM  Models
 - ChatGPT  (OpenAI)  <-- the Big 3
@@ -39,7 +39,7 @@ usage :
 
 
   
-### LLM Model API Providers
+### 2. LLM Model API Providers
 
 https://artificialanalysis.ai/leaderboards/models?is_open_weights=open_source
 
@@ -51,7 +51,7 @@ https://artificialanalysis.ai/leaderboards/models?is_open_weights=open_source
 https://openrouter.ai/rankings
     
 
-### AI IDEs ( How developers use LLM while Coding Software )
+### 3. AI IDEs ( How developers use LLM while Coding Software )
 - Cursor
 - ClaudeCode  (Anthropic) -- Claude Code : $200/month almost unlimited ; most popular with Developers
 - CodeX  ( OpenAI)
@@ -62,10 +62,22 @@ https://openrouter.ai/rankings
 - Repplit
 
 
-### Protocols
+### 4. Protocols
 - MCP : Model Context Protocol 
 - A2A  : Agent 2 Agent
 - examples : talk about "Stock MCP server" ...
 
-### Agenitic frameworks:
+
+### 5.Agenitic frameworks:
+
+Introduction
+Agno
+LangGraph
+CrewAI
+
+Google ADK, OpenAI ADK
+
+No Code Frameworks: N8N, Make.com
+
+Deciding the Best Framework
 
