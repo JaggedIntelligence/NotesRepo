@@ -75,18 +75,15 @@ https://openrouter.ai/rankings
 
 >what frameworks people use to Develop "AI based applications" ( like "Ruby on Rails" vs. Java Spring Vs. Node.js )
   
-Agno
-
-LangGraph
-
-CrewAI
-
-
-Google ADK, OpenAI ADK
-
-No Code Frameworks: N8N, Make.com
-
-Deciding the Best Framework
+- Agno
+- LangGraph
+- CrewAI
+- 
+- Google ADK, OpenAI ADK
+-
+- No Code Frameworks: N8N, Make.com
+- 
+- Deciding the Best Framework
 
 ### 6. AI Trends and the Big Picture
 
