@@ -88,14 +88,13 @@ https://openrouter.ai/rankings
 ### 6. AI Trends and the Big Picture
 
 
-**AI Trends**
+- **AI Trends**
 Analysis of the current state of AI and the key trends driving progress. Includes analysis of the intelligence of models, their efficiency, architecture, inference speed and cost and trends in training.
 https://artificialanalysis.ai/trends
 
-**2025: The State of Generative AI in the Enterprise**
+- **2025: The State of Generative AI in the Enterprise**
 https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/
 
-Departmental AI Market map
-https://menlovc.com/wp-content/uploads/2025/12/9-departmental_ai_market_map-123125.webp
+  - Departmental AI [Market map](https://menlovc.com/wp-content/uploads/2025/12/9-departmental_ai_market_map-123125.webp)
 
 
