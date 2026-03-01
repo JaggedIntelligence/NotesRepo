@@ -17,12 +17,12 @@ How Fingerprint reduced support tickets 48% while increasing user activation 18%
 
 ### 2. Build AI Data Controls for MCP Servers With Descope and Skyflow
 
-Add Auth to a Next.js App With the Descope Docs MCP Server
-https://www.youtube.com/watch?v=fqiVP8evVVE&t=399s
+**Add Auth to a Next.js App With the Descope Docs MCP Server**
+  - https://www.youtube.com/watch?v=fqiVP8evVVE&t=399s
 
 **Introducing the Descope Docs MCP Server**
-article : https://www.descope.com/blog/post/docs-mcp-server#one-predictable-interface-for-descope-knowledge
+- article : https://www.descope.com/blog/post/docs-mcp-server#one-predictable-interface-for-descope-knowledge
 
-Build AI Data Controls for MCP Servers With Descope and Skyflow
-- https://www.youtube.com/watch?v=nY2Ep2ifal0
+- Build AI Data Controls for MCP Servers With Descope and Skyflow
+  - https://www.youtube.com/watch?v=nY2Ep2ifal0
 
