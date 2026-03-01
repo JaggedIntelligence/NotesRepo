@@ -13,3 +13,6 @@ AWS re:Invent 2025 - Building Scalable, Self-Orchestrating AI Workflows with A2A
 Master MCP and A2A | Build Multi-agent Orchestration | Learning Roadmap & Course Intro
  - 12 part Tutorial Course explaining every layer of Building Multip-ageent applicaitons
  - https://www.youtube.com/watch?v=0z0vCFKggEQ&list=PL6tW9BrhiPTCKTXXJAwigi7QDNpA7t4Ip&index=1
+
+
+![Master MCP and A2A](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*IzDrz_4h635V2qXDqoRtpg.png)
