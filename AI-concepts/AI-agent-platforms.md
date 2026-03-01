@@ -7,6 +7,12 @@
 # 1. Empowers customer operations teams to build agents that take action across your systems.
 
 
+### Usage : how "Documentaiton search" is implemented in a real-world application.
+
+ here, Clay.com implements their "Documentaiton search" using  "InKeep" Tools
+ - go to the page for the URL below and click on the "search icon" on the top Right of the page, type a keyworld like "bigquery" and see Documentation categories implemented using "inkeep"
+ -  https://www.clay.com/integrations/data-provider/hubspot
+
 ### 1.1 Inkeep : The AI agent platform that empowers customer operations teams to build agents that take action across your systems.
 
 https://inkeep.com/
