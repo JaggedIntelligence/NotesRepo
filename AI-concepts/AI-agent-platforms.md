@@ -1,8 +1,13 @@
-# AI agent platforms : that empowers customer operations teams to build agents that take action across your systems.
+# AI agent platforms : 
 
 
 
-### 1. Inkeep : The AI agent platform that empowers customer operations teams to build agents that take action across your systems.
+
+---------------------------------------
+# 1. Empowers customer operations teams to build agents that take action across your systems.
+
+
+### 1.1 Inkeep : The AI agent platform that empowers customer operations teams to build agents that take action across your systems.
 
 https://inkeep.com/
 - Ship AI Agents and tools.Pre-built or fully custom
@@ -15,7 +20,7 @@ How Descope launched a Docs MCP Server with Inkeep to meet developers where they
 How Fingerprint reduced support tickets 48% while increasing user activation 18% with Inkeep
   - https://inkeep.com/case-studies/fingerprint
 
-### 2. Build AI Data Controls for MCP Servers With Descope and Skyflow
+### 1.2 Build AI Data Controls for MCP Servers With Descope and Skyflow
 
 **Add Auth to a Next.js App With the Descope Docs MCP Server**
   - https://www.youtube.com/watch?v=fqiVP8evVVE&t=399s
