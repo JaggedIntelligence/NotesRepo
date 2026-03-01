@@ -26,6 +26,14 @@ article : https://www.descope.com/blog/post/docs-mcp-server#one-predictable-inte
 
 Build AI Data Controls for MCP Servers With Descope and Skyflow
 
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/nY2Ep2ifal0"
+title="YouTube video"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nY2Ep2ifal0/0.jpg)]((https://www.youtube.com/watch?v=nY2Ep2ifal0)
 
 [![Watch the video](https://img.youtube.com/vi/nY2Ep2ifal0/default.jpg)]([https://youtu.be/nTQUwghvy5Q](https://www.youtube.com/watch?v=nY2Ep2ifal0))
