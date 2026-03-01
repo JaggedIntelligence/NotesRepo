@@ -1,4 +1,4 @@
-# AI Workflows with A2A and MCP protocals
+# Building AI Workflows with A2A and MCP protocals
 
 
 ### 1. Building Scalable, Self-Orchestrating AI Workflows with A2A and MCP (DEV415)
