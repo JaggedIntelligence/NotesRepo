@@ -14,3 +14,16 @@ How Descope launched a Docs MCP Server with Inkeep to meet developers where they
 
 How Fingerprint reduced support tickets 48% while increasing user activation 18% with Inkeep
   - https://inkeep.com/case-studies/fingerprint
+
+
+### Build AI Data Controls for MCP Servers With Descope and Skyflow
+
+
+Introducing the Descope Docs MCP Server
+
+
+article : https://www.descope.com/blog/post/docs-mcp-server#one-predictable-interface-for-descope-knowledge
+
+Build AI Data Controls for MCP Servers With Descope and Skyflow
+[![Watch the video](https://img.youtube.com/vi/nY2Ep2ifal0/default.jpg)]([https://youtu.be/nTQUwghvy5Q](https://www.youtube.com/watch?v=nY2Ep2ifal0))
+
