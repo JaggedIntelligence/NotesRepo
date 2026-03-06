@@ -10,6 +10,21 @@ SR note why this is Best approach for Learing ML/DL and LLMs:
     - practice cloud instances
     - all of above tied by Sebastian (hands on guy) who teaches these at UW university.. 
 
+### 0. Cloud instance to Practice the material  "Learning ML/DL LLMs "
+https://lightning.ai/
+From the PyTorch Lightning creators
+The AI cloud PyTorch developers love
+
+Lightning is the AI cloud for developers and AI teams that makes it easy to build and deploy lightning fast models.
+Our experts and AI copilots help at every step.
+
+Templates Ready to Use
+https://lightning.ai/environments?section=featured
+
+https://lightning.ai/pricing
+- SR Note: see they have academic pricing of $10/month .. that should be good for Collage students instead of struggling with Laptop
+
+
 ### 1/ Deep Learning Fundamentals
 
 https://lightning.ai/courses/deep-learning-fundamentals/
