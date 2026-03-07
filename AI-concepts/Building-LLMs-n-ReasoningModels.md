@@ -1,6 +1,8 @@
-# Learning LLM Fundamentals & Hands on 
+# Building LLMs and ReasoningModels from Scratch (Hands on Tutorials, Material and Approach)
 
 ### Big picture 
+This Doc outlines the THEME about Building LLMs and ReasoningModels from Scratch with Emphasis on Hands on Tutorials, Material and Approach
+
 SR note why this is Best approach for Learing ML/DL and LLMs:
 - let some guys/girls in India/USA know these Immensely valuble reosruce
 - Anu, Harithima, Gitu, Gitu UCSC friend ( Kondal's son) 
