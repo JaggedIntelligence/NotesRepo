@@ -13,15 +13,19 @@ This gives you file access, code management, up-to-date docs, project memory, an
 Filesystem (05) + GitHub (10) + Context7 (12) + Codebase Memory (16) + Sentry (15) 
 
 
+
+
 **For Knowledge Workers:**
 → This gives you file access plus all your core productivity tools connected to Claude.
+
 Filesystem (05) + Google Drive (17) + Gmail (20) + Google Calendar (19) + Notion (21) 
 
 
 **For Data Analysts:**
-
 → This gives you file access, database querying, spreadsheet manipulation, and web research.
+
 Filesystem (05) + SQLite (06) + PostgreSQL (07) + Excel (08) + Tavily (01) 
+
 
 
 **For Content Creators:**
