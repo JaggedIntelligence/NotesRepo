@@ -8,13 +8,11 @@ source : https://x.com/eng_khairallah1/status/2042891054471614752
 Do not install all 40 at once. Pick a starter pack based on your role.
 
 **For Developers:**
-
 → This gives you file access, code management, up-to-date docs, project memory, and error monitoring.
 Filesystem (05) + GitHub (10) + Context7 (12) + Codebase Memory (16) + Sentry (15) 
 
 
 **For Knowledge Workers:**
-
 → This gives you file access plus all your core productivity tools connected to Claude.
 Filesystem (05) + Google Drive (17) + Gmail (20) + Google Calendar (19) + Notion (21) 
 
