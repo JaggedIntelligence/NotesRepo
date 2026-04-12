@@ -8,8 +8,8 @@ source : https://x.com/eng_khairallah1/status/2042891054471614752
 Do not install all 40 at once. Pick a starter pack based on your role.
 
 **For Developers:**
+This gives you file access, code management, up-to-date docs, project memory, and error monitoring.
 
-→ This gives you file access, code management, up-to-date docs, project memory, and error monitoring.
 Filesystem (05) + GitHub (10) + Context7 (12) + Codebase Memory (16) + Sentry (15) 
 
 
