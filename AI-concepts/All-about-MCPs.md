@@ -8,7 +8,7 @@ source : https://x.com/eng_khairallah1/status/2042891054471614752
 MCP is all you need — Samuel Colvin, Pydantic 
 https://www.youtube.com/watch?v=bmWZk9vTze0
 
-** Topic of the Video**
+**Topics of the Video** ( from youtube page)
 
 This year, I (the creator of Pydantic) am continuing the tradition by arguing that MCP might be all we need for agent-to-agent communications.
 
