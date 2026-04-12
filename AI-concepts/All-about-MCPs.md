@@ -4,7 +4,7 @@
 Conent on this page is sourced from these places ...
 source : https://x.com/eng_khairallah1/status/2042891054471614752 
 
-### Video on MCP from the creator of Pydantic 
+### 1/ Video on MCP from the creator of Pydantic 
 MCP is all you need — Samuel Colvin, Pydantic 
 https://www.youtube.com/watch?v=bmWZk9vTze0
 
@@ -25,7 +25,10 @@ Multiple Competing Protocols: A quick run-through of other agent communication p
 Massive Crustaceans Party: What might success look like if everything goes to plan?
 
 
-### The Starter Packs: Which MCP Servers to Install First
+### 2/ 40 MCP Servers That Turn Claude Into a Productivity Machine 
+
+The Starter Packs: Which MCP Servers to Install First
+
 Do not install all 40 at once. Pick a starter pack based on your role.
 
 **For Developers:**
