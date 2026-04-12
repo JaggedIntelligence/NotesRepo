@@ -4,6 +4,22 @@
 Conent on this page is sourced from these places ...
 source : https://x.com/eng_khairallah1/status/2042891054471614752 
 
+### Video on MCP from the creator of Pydantic 
+MCP is all you need — Samuel Colvin, Pydantic 
+https://www.youtube.com/watch?v=bmWZk9vTze0
+
+** Topic of the Vidoe**
+This year, I (the creator of Pydantic) am continuing the tradition by arguing that MCP might be all we need for agent-to-agent communications.
+
+What I’ll cover:
+
+Misusing Common Patterns: MCP was designed for desktop/IDE applications like Claude Code and Cursor. How can we adapt MCP for autonomous agents?
+Many Common Problems: MCP is great, but what can go wrong? How can you work around it? Can the protocol be extended to solve these issues?
+Monitoring Complex Phenomena: How does observability work (and not work) with MCP?
+Multiple Competing Protocols: A quick run-through of other agent communication protocols like A2A and AGNTCY, and probably a few more by June 😴
+Massive Crustaceans Party: What might success look like if everything goes to plan?
+
+
 ### The Starter Packs: Which MCP Servers to Install First
 Do not install all 40 at once. Pick a starter pack based on your role.
 
