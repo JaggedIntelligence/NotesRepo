@@ -54,3 +54,49 @@ https://multica.ai/docs
 A task collaboration platform — humans and AI agents working together in the same workspace.
 
 Multica is a task collaboration platform where humans and AI agents work together in the same workspace. You can assign an issue to an agent the way you'd hand work to a teammate — it executes the work, reports progress, and replies in the comments. You can also open a chat window and talk to it directly, asking it to draft an issue, answer a question, or handle a one-off request.
+
+------------------------------------------------
+### 4/ Warp & OZ 
+
+SR: for enterprises , more Polished product .. even though you may pay little bit.
+ - Enterpises won't mind paying little bit, key thing can they USE  OpenAI/Claude monthly Plans ( low cost $100 or $200/month)
+ - key question, if it allows all those China LLM, that is where it is useful ...
+
+Warp is an agentic development environment, born out of the terminal. 
+Use Warp's built-in coding agent, or bring your own CLI agent (Claude Code, Codex, Gemini CLI, and others).
+https://github.com/warpdotdev/warp 
+
+
+Building Oz: how, why, and what
+https://www.youtube.com/watch?v=m85KKRmiris
+
+Introducing Oz: the orchestration platform for cloud agents
+https://www.youtube.com/watch?v=aBTG59a7Bcs&t=83s
+
+All Videos of WARP
+https://www.youtube.com/@warpdotdev
+ 
+Break out of your shell
+Oz is the orchestration platform for cloud agents. Spin up unlimited parallel cloud agents on any infra - programmable, auditable, and fully steerable.
+https://www.warp.dev/oz 
+
+
+---------------------------------------
+### 5/ Eliza OS
+The Open-Source Framework for Multi-Agent AI Development
+Build, deploy, and manage autonomous AI agents with a modern, extensible, and full-featured platform.
+https://github.com/elizaos/eliza
+
+elizaOS Value proposition
+elizaOS is an all-in-one, extensible platform for building and deploying AI-powered applications. Whether you're creating sophisticated chatbots, autonomous agents for business process automation, or intelligent game NPCs, Eliza provides the tools you need to get started quickly and scale effectively.
+
+It combines a modular architecture, a powerful CLI, and a rich web interface to give you full control over your agents' development, deployment, and management lifecycle.
+
+DB schema
+Drizzle Schema for PostgresDB ( SR note: tremendous value to Levarage this DB DB Schema ..)
+https://github.com/elizaos-plugins/plugin-sql/blob/63c60196c2997a40b65a2840fb11d902a2d67108/drizzle/migrations/0000_lively_otto_octavius.sql
+
+Build autonomous AI agents with the most popular agentic framework
+https://docs.elizaos.ai/what-you-can-build 
+architecture https://docs.elizaos.ai/plugins/architecture
+
