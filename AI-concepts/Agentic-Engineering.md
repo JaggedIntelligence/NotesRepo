@@ -13,6 +13,10 @@ https://www.youtube.com/watch?v=wkv2ifxPpF8&t=165s
 
 github repo: https://github.com/garrytan/gstack
 
+### 2.2  How to build a skill : a skill of evaluationg Startup pitch Application 
+https://github.com/gjarrosson/yc-roaster-application-coach/blob/main/examples/weak-vs-strong-answer.md
+
+
 ### / Green filed ( brand new ) project is easy for  Ai Agents.
  - for existing projects , say you wanted to add a brand new Screen ,  add @ folders and ask to create new screen ..
  - 
